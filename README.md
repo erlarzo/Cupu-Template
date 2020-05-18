@@ -1,5 +1,5 @@
 # Cupu-Template
-Landing page berdasarkan CSS Framework Bulma.
+Web template yang dibuat berdasarkan CSS Framework Bulma.
 
 Ilustrasi : Drawkit
 Icon : Feather
