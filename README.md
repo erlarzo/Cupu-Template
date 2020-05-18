@@ -1,7 +1,7 @@
 # Cupu-Template
-Web template yang dibuat berdasarkan CSS Framework Bulma.
+Web template yang dibuat berdasarkan Bulma CSS Framework.
 
-Ilustrasi : Drawkit
+Ilustrasi : Drawkit,
 Icon : Feather
 
 Versi : 0.1
