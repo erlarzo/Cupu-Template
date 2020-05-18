@@ -1,0 +1,109 @@
+/*
+	Nama: Cupu Template
+	Version : 0.1
+	Author : Ridlo W
+	Url : http://instagram.com/rwynid
+
+*/
+
+html{
+	scroll-behavior:smooth;
+}
+.button {
+	width:10em;
+	height:3em;
+	border-radius:20px;
+	background:#05386b;
+	color:white;
+}
+.button:hover{
+	border:1px solid #05386b;
+	background:white;
+	color:#05386b;
+}
+
+.navbar{
+	margin:2em 1em;
+}
+a.navbar-item{
+	color:#05386b;
+}
+
+.header-img, .header-teks{
+	margin:1em;
+}
+.header-teks{
+	align-self:center;
+}
+
+
+#fitur{
+	margin-top:2em auto;
+}
+.fitur-teks{
+	margin:3em;
+
+}
+.fitur-detail, .fitur-detail-teks{
+	margin:1em;
+}
+.fitur-detail-teks{
+	align-self:center;
+}
+.divider {
+	height:3px;
+	width:7em;
+	background:black;
+	margin:0 auto;
+}
+
+.icon-detail{
+	margin:2em;
+	text-align:center;
+	
+}
+.icon{
+	
+	border-radius:50%;
+	width:3em;
+	height:3em;
+	margin:2em auto;
+	background:#5cdb95;
+}
+
+#testimonial{
+	margin-top:6em;
+	padding:5em;
+	background-color:#8ee4af;
+}
+.testimonal-card{
+	margin-top:10em;
+}
+.card{
+	padding:2em 0;
+	margin-top:3em;
+}
+.card-content{
+	text-align:center;
+}
+
+.testimonial-avatar{
+	border-radius:50%;
+}
+
+#kontak{
+	margin-top:2em;
+	padding:2em;
+	
+}
+.kontak-teks{
+	margin:5em 0;
+}
+.kontak-detail{
+	align-self:center;
+	padding:2em;
+}
+
+.footer{
+	height:50px;
+}
